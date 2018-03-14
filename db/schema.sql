@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS burger_db;
+DROP DATABASE IF EXISTS obsp6o1hx9lww1r3;
 
-CREATE DATABASE burger_db;
-USE burger_db;
+CREATE DATABASE obsp6o1hx9lww1r3;
+USE obsp6o1hx9lww1r3;
 
 
-SELECT * FROM Burgers;
+SELECT * FROM obsp6o1hx9lww1r3;
